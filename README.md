@@ -2,7 +2,7 @@
 <tr>
 
 <td width="55%" valign="middle">
-<h1>Hi, I'm Anirva 👋</h1>
+<h1>Aye, I'm Anirva 👋</h1>
 <p>Still waiting for that cube to hit the corner? Same energy as me chasing the next good idea.</p>
 <br>
 <p>I build things I find interesting — weird concepts, working software, no fluff.</p>
