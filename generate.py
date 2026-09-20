@@ -1,13 +1,13 @@
 from PIL import Image, ImageDraw
 
-WIDTH = 320
-HEIGHT = 180
+WIDTH = 480
+HEIGHT = 360
 
 FPS = 30
 FRAMES = 1200
 
 # Small square like the DVD logo
-SIZE = 36
+SIZE = 52
 
 # Starting position
 x = 45
