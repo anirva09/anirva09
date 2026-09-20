@@ -7,7 +7,7 @@ FPS = 30
 FRAMES = 1200
 
 # Small square like the DVD logo
-SIZE = 67
+SIZE = 64
 
 # Starting position
 x = 45
