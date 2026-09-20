@@ -17,9 +17,9 @@
 
 </td>
 
-<td width="45%" valign="middle" style="padding:0;">
+<td width="45%" valign="middle" bgcolor="#0A0A0A" style="padding:0; margin:0;">
 
-<img src="./pixel-cube.gif" width="100%" alt="Pixel Cube" style="display:block;">
+<img src="./pixel-cube.gif" width="100%" height="100%" alt="Pixel Cube" style="display:block; width:100%; height:100%;">
 
 </td>
 
