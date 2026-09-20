@@ -3,11 +3,13 @@
 
 <td width="55%" valign="middle">
 <h1>Hi, I'm Anirva 👋</h1>
-<p>I like building things that I find interesting.</p>
-<p>I'm always down to experiment, build weird ideas, and turn cool concepts into working software.</p>
-<p><strong>Have a project that sounds interesting?</strong></p>
-<p>Let's build it.</p>
-<p><a href="https://www.linkedin.com/in/anirva-m/">Connect with me on LinkedIn →</a></p>
+<p>Still waiting for that cube to hit the corner? Same energy as me chasing the next good idea.</p>
+<br>
+<p>I build things I find interesting — weird concepts, working software, no fluff.</p>
+<br>
+<p>If you've got a project that needs someone who'll actually ship it, you're in the right place.</p>
+<br>
+<p><strong>Let's build it → <a href="https://www.linkedin.com/in/anirva-m/">Connect with me on LinkedIn</a></strong></p>
 </td>
 
 <td width="45%" valign="top">
