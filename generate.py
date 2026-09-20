@@ -14,8 +14,8 @@ x = 45
 y = 25
 
 # Movement
-vx = 5
-vy = 3
+vx = 7
+vy = 4
 
 # DVD-style colors
 COLORS = [
