@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 
 WIDTH = 480
-HEIGHT = 480
+HEIGHT = 400
 
 FPS = 30
 FRAMES = 1200
